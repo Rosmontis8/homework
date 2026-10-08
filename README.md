@@ -1,2 +1,2 @@
 # homework
-its just my trash homework
+its just my homework
