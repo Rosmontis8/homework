@@ -1,0 +1,6 @@
+a=input()
+print(a)
+a.split(',')
+a=eval(a)
+print(max(a))
+print(sum(a)/(len(a)))
